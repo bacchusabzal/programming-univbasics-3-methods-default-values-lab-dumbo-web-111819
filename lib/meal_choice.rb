@@ -2,14 +2,6 @@
 
 
 
-
-
-
-# **Top Tip**: Remember, that `puts` has a return value of `nil`, so we need to
-# give our method an explicit return value.
-
-# ## Define a Return Value
-
 # The hosts are going the meal information to keep track of what everyone is
 # eating, so make sure the return value includes the **three** food items you've
 # chosen by returning: "A plate of #{protein} with #{veg1} and #{veg2}."
